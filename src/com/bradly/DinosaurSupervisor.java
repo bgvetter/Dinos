@@ -15,5 +15,9 @@ public class DinosaurSupervisor {
 
         Luna.roar();
 
+        Dinosaur shrieker = new Dinosaur();
+
+        shrieker.roar();
+
     }
 }
